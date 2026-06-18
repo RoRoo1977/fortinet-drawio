@@ -5,5 +5,5 @@ A set of Fortinet icons from official website to be imported on https://draw.io
 
 On Draw.IO, go to **File > Open Library From > URL** and paste the following URL:
 
-`https://raw.githubusercontent.com/rafaelfoster/fortinet-drawio/main/Fortinet.xml`
+`https://raw.githubusercontent.com/RoRoo1977/fortinet-drawio/main/Fortinet.xml`
 
